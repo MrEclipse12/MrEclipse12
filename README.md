@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently working on: **Front End Web Dev || Learn Python and Node.js**
 
-- 🌱 I’m currently learning: **HTML 5 ||CSS 3 || Java Script**
+- 🌱 I’m currently learning: **HTML 5 || CSS 3 || Java Script**
 
 - 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community || Make some money with this :p**
 
