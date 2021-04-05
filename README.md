@@ -1,3 +1,5 @@
+🇧🇷 -  Who i am? My name is Pedro Arthur, and now you will a lil bit more about me :p
+
 <div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
